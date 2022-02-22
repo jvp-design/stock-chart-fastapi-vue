@@ -1,0 +1,31 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.0-alpha.32",
+    "@vuelidate/validators": "^2.0.0-alpha.25",
+    "apexcharts": "^3.33.1",
+    "vue": "^3.2.16",
+    "vue3-apexcharts": "^1.4.1"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.4.2",
+    "@heroicons/vue": "^1.0.5",
+    "@tailwindcss/forms": "^0.3.4",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.1.1",
+    "lint-staged": "^12.1.2",
+    "postcss": "^8.4.4",
+    "prettier": "^2.5.0",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}
